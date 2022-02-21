@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I'm currently working on the backend of an e-commerce app
-- 🌱 I'm currently learning mongoDB and expressJS  
+- 🔭 I'm currently working on a freelance task
+- 🌱 I'm currently learning framer-motion library  
 - 📫 How to reach me [rajsyeola@gmail.com](mailto:rajsyeola@gmail.com)
 - 👨‍💻 This is my [portfolio website](http://rajyeola.netlify.app)
 
