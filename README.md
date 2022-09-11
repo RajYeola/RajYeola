@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I'm currently working on a freelance task
-- 🌱 I'm currently learning framer-motion library  
+- 🔭 I'm currently working as a full stack developer intern at MadScientist
+- 🌱 I'm currently learning NextJS  
 - 📫 How to reach me [rajsyeola@gmail.com](mailto:rajsyeola@gmail.com)
 - 👨‍💻 This is my [portfolio website](http://rajyeola.netlify.app)
 
