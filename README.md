@@ -1,12 +1,25 @@
 <div align="center"><h1>👋 Hi, I’m Raj Yeola</h1></div>
-<div align="center"><h3>Aspiring full stack web developer</h3></div>
+<div align="center"><h3>Frontend Engineer</h3></div>
 
 
 
-- 🔭 I'm currently working as a full stack developer intern at MadScientist
-- 🌱 I'm currently learning NextJS  
-- 📫 How to reach me [rajsyeola@gmail.com](mailto:rajsyeola@gmail.com)
-- 👨‍💻 This is my [portfolio website](http://rajyeola.netlify.app)
+I have 2+ years of experience engineering frontend solutions that are responsive, maintainable and built to scale.
+
+My journey began during my graduation, when I interned at MadScientist, a social media platform as a Frontend Developer Intern. There, I collaborated closely with the product and design teams to design, develop, and test UI components. I mainly worked on Redux-based CRUD features, gaining hands-on experience with building user-centric flows in a fast-paced startup environment.
+
+After graduating, I joined QuickSell, where I’ve worked across both their products — QuickSell and DoubleTick CRM.
+• On DoubleTick CRM, I’ve led and contributed to several major features and enhancements:
+ ◦ Built Excel import with auto-mapping, made improvements to a Chrome Extension, and enhanced the React Flow–based bot builder for automation use cases.
+ ◦ Implemented advanced customer filters with nesting, real-time updates using sockets, and features like private notes with @mentions, payment add-ons, FBM verification, etc.
+ ◦ Developed iframe-based routing, enabling embedded usage within external platforms, with dynamic UI toggling via query params - used seamlessly across iOS, Android, and Web.
+ ◦ Optimised API usage patterns, helping reduce infrastructure costs.
+ ◦ Resolved customer-reported Zoho Desk tickets, often coordinating directly with users and jumping on calls to resolve critical issues efficiently.
+ ◦ Contributed to DoubleTick’s public website, focusing on UI polish, smooth animations, and an attractive, modern interface.
+• On the QuickSell product, I worked within a legacy React (class components) codebase - delivering a platform-wide iframe (webview) used across Android, iOS, and Web to enable barcode-based order-taking. I also contributed various smaller features and bug fixes, sharpening my troubleshooting and backward-compatibility skills.
+
+Beyond code, I’ve taken interviews, mentored junior devs, and helped shape hiring decisions - experiences that have made me a better engineer and communicator.
+
+Tech stack: React.js, Next.js, TypeScript, Tailwind, SCSS, Jotai, Redux, and hands-on experience with CDNs, caching strategies, deployments, and maintaining legacy systems.
 
 ### Languages and Tools:
 [<img width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></img>](https://www.mongodb.com/)
